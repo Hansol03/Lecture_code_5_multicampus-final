@@ -1,0 +1,10 @@
+p {color: red;}
+
+#name {color: rgba(255, 0, 119, 0.849);}
+.important {color: yellowgreen;}  
+table {color: blueviolet;}
+.primary {color: navy;}
+.secondary {color: gray;}
+.success {color: goldenrod;}
+
+/* .은 클래스를 의미한다  */
